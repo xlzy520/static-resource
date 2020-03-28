@@ -3,7 +3,73 @@
         "name": "前端开发",
         "icon": "el",
         "data": [
-            {
+          {
+            "classify": "组件库",
+            "icon": "",
+            "sites": [
+              {
+                "title": "组件 | Element",
+                "href": "https://element.eleme.cn/#/zh-CN/component/installation",
+                "desc": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+                "logo": "https://element.eleme.cn/favicon.ico"
+              },
+              {
+                "title": "iView - A high quality UI Toolkit based on Vue.js",
+                "href": "https://www.iviewui.com/",
+                "desc": "A High quality and rich functions, friendly APIs, free and flexible UI Toolkit based on Vue.js.",
+                "logo": "https://file.iviewui.com/file/iview-design-favicon.ico"
+              },
+              {
+                "title": "cube-ui Document",
+                "href": "https://didi.github.io/cube-ui/#/zh-CN",
+                "desc": "基于 Vue.js 实现的精致移动端组件库",
+                "logo": "https://webapp.didistatic.com/static/webapp/shield/Cube-UI_logo.ico"
+              },
+              {
+                "title": "Ant Design Pro ",
+                "href": "https://ant-design-pro.gitee.io/index-cn",
+                "desc": "开箱即用的中台前端/设计解决方案",
+                "logo": "https://ant-design-pro.gitee.io/icons/icon-48x48.png?v=04b7535641913127b6747d7153704eeb"
+              },
+              {
+                "title": "Quick Start &mdash; Vuetify.js",
+                "href": "https://vuetifyjs.com/zh-Hans/getting-started/quick-start",
+                "desc": "Vuetify 完全按照 Material Design specification 开发。",
+                "logo": "https://vuetifyjs.com/favicon.ico"
+              },
+              {
+                "title": "layui - 经典模块化前端 UI 框架",
+                "href": "https://www.layui.com/",
+                "desc": "layui 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。",
+                "logo": "https://www.layui.com/favicon.ico"
+              },
+              {
+                "title": "uni-app官网",
+                "href": "https://uniapp.dcloud.io/",
+                "desc": "uni-app：一个使用 Vue.js 开发跨平台应用的前端框架",
+                "logo": "https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/icon.png?v=1556263038786"
+              },
+              {
+                "title": "Vant - 轻量、可靠的移动端 Vue 组件库",
+                "href": "https://youzan.github.io/vant/?source=vuejsorg#/zh-CN/intro",
+                "desc": "Mobile UI Components built on Vue",
+                "logo": "https://img.yzcdn.cn/vant/logo.png"
+              },
+              {
+                "title": "Ant Design of Vue - Ant Design Vue",
+                "href": "https://www.antdv.com/docs/vue/introduce-cn/",
+                "desc": "An enterprise-class UI components based on Ant Design and Vue",
+                "logo": "https://qn.antdv.com/favicon.ico"
+              },
+              {
+                "title": "Ant Design of React - Ant Design",
+                "href": "https://ant-design.gitee.io/components/button-cn/",
+                "desc": "antd 是基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。",
+                "logo": "https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
+              }
+            ]
+          },
+          {
                 "classify": "学习资料",
                 "icon": "",
                 "sites": [
@@ -120,72 +186,6 @@
                         "href": "https://developer.mozilla.org/zh-CN/docs/Web/API/MediaDevices/getUserMedia",
                         "desc": "通常你可以使用 navigator.mediaDevices 来获取 MediaDevices ，例如：",
                         "logo": "https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png"
-                    }
-                ]
-            },
-            {
-                "classify": "组件库",
-                "icon": "",
-                "sites": [
-                    {
-                        "title": "组件 | Element",
-                        "href": "https://element.eleme.cn/#/zh-CN/component/installation",
-                        "desc": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
-                        "logo": "https://element.eleme.cn/favicon.ico"
-                    },
-                    {
-                        "title": "iView - A high quality UI Toolkit based on Vue.js",
-                        "href": "https://www.iviewui.com/",
-                        "desc": "A High quality and rich functions, friendly APIs, free and flexible UI Toolkit based on Vue.js.",
-                        "logo": "https://file.iviewui.com/file/iview-design-favicon.ico"
-                    },
-                    {
-                        "title": "cube-ui Document",
-                        "href": "https://didi.github.io/cube-ui/#/zh-CN",
-                        "desc": "基于 Vue.js 实现的精致移动端组件库",
-                        "logo": "https://webapp.didistatic.com/static/webapp/shield/Cube-UI_logo.ico"
-                    },
-                    {
-                        "title": "Ant Design Pro ",
-                        "href": "https://ant-design-pro.gitee.io/index-cn",
-                        "desc": "开箱即用的中台前端/设计解决方案",
-                        "logo": "https://ant-design-pro.gitee.io/icons/icon-48x48.png?v=04b7535641913127b6747d7153704eeb"
-                    },
-                    {
-                        "title": "Quick Start &mdash; Vuetify.js",
-                        "href": "https://vuetifyjs.com/zh-Hans/getting-started/quick-start",
-                        "desc": "Vuetify 完全按照 Material Design specification 开发。",
-                        "logo": "https://vuetifyjs.com/favicon.ico"
-                    },
-                    {
-                        "title": "layui - 经典模块化前端 UI 框架",
-                        "href": "https://www.layui.com/",
-                        "desc": "layui 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。",
-                        "logo": "https://www.layui.com/favicon.ico"
-                    },
-                    {
-                        "title": "uni-app官网",
-                        "href": "https://uniapp.dcloud.io/",
-                        "desc": "uni-app：一个使用 Vue.js 开发跨平台应用的前端框架",
-                        "logo": "https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/icon.png?v=1556263038786"
-                    },
-                    {
-                        "title": "Vant - 轻量、可靠的移动端 Vue 组件库",
-                        "href": "https://youzan.github.io/vant/?source=vuejsorg#/zh-CN/intro",
-                        "desc": "Mobile UI Components built on Vue",
-                        "logo": "https://img.yzcdn.cn/vant/logo.png"
-                    },
-                    {
-                        "title": "Ant Design of Vue - Ant Design Vue",
-                        "href": "https://www.antdv.com/docs/vue/introduce-cn/",
-                        "desc": "An enterprise-class UI components based on Ant Design and Vue",
-                        "logo": "https://qn.antdv.com/favicon.ico"
-                    },
-                    {
-                        "title": "Ant Design of React - Ant Design",
-                        "href": "https://ant-design.gitee.io/components/button-cn/",
-                        "desc": "antd 是基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。",
-                        "logo": "https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
                     }
                 ]
             },
